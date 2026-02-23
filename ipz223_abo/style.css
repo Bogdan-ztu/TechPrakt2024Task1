@@ -26,8 +26,8 @@ body {
 }
 .navbar {
     background-color: greenyellow;
-    border-bottom: 3px solid #000;
+    border-bottom: 3px solid #ddd;
 }
 .navbar-brand, .nav-link {
-    color: #fff !important;
+    color: #ddd !important;
 }
